@@ -1,5 +1,5 @@
 # Cascading Text Boxes
-This is really just a simple test to get familiar with rust.
+This was originally written in rust but then was updated in a few other languages.
 
 ### Usage
 Set the variable `x` to any positive integer, and run.
@@ -22,5 +22,3 @@ Program will create x ammount of cascading boxes like such:
           | |
           +-+
 ```
-
-(First made to work on https://play.rust-lang.org/)
